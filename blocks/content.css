@@ -4,14 +4,14 @@
   margin: 0px 0px 0px 148px;
 }
 
-.intro__title {
+.content__title {
   font-size: 3.37rem;
   font-weight: 900;
   line-height: 58px;
   margin-top: 92px;
 }
 
-.intro__quote {
+.content__quote {
   font-size: 24px;
   font-weight: 400;
   line-height: 34px;
@@ -19,7 +19,7 @@
   max-width: 738px;
 }
 
-.intro__quote-author {
+.content__quote-author {
   font-size: 24px;
   font-weight: 400;
   line-height: 34px;
@@ -28,7 +28,7 @@
   max-width: 732px;
 }
 
-.intro__description {
+.content__description {
   font-size: 16px;
   font-weight: 400;
   line-height: 26.08px;
@@ -42,18 +42,18 @@
     max-width: 720px;
   }
 
-  .intro__title {
+  .content__title {
     font-size: 2.81rem;
     line-height: 55px;
     margin: 90px 0px 50px;
   }
 
-  .intro__description {
+  .content__description {
     margin-top: 32px;
     max-width: 700px;
   }
 
-  .intro__quote-author {
+  .content__quote-author {
     font-size: 20px;
     max-width: 700px;
   }
@@ -67,18 +67,18 @@
     margin: 0px 10px 0px;
   }
 
-  .intro__title {
+  .content__title {
     font-size: 2.50rem;
     line-height: 49px;
     margin: 90px 0px 50px;
   }
 
-  .intro__description {
+  .content__description {
     margin-top: 32px;
     max-width: 650px;
   }
 
-  .intro__quote-author {
+  .content__quote-author {
     font-size: 18px;
     max-width: 650px;
     margin-right: 10px;
@@ -92,18 +92,18 @@
     max-width: 500px;
   }
 
-  .intro__title {
+  .content__title {
     font-size: 2.20rem;
     line-height: 40px;
     margin: 90px 0px 50px;
   }
 
-  .intro__description {
+  .content__description {
     margin-top: 32px;
     max-width: 480px;
   }
 
-  .intro__quote-author {
+  .content__quote-author {
     font-size: 20px;
     max-width: 480px;
   }
@@ -116,24 +116,24 @@
     width: 320px;
   }
 
-  .intro__title {
+  .content__title {
     font-size: 2rem;
     line-height: 35px;
     margin: 64px 16px 0px;
   }
 
-  .intro__quote {
+  .content__quote {
     margin: 40px 16px 0px;
     margin-left: 16px;
     line-height: 30px;
   }
 
-  .intro__quote-author {
+  .content__quote-author {
     max-width: 320px;
     margin-right: 16px;
   }
 
-  .intro__description {
+  .content__description {
     margin: 32px 16px 0px;
     margin-left: 16px;
     font-size: 1rem;
