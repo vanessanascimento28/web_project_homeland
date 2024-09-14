@@ -47,7 +47,7 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
-  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+  box-shadow: 10px 10px 25px 0 rgba(0, 0, 0, 0.5);
   cursor: pointer;
 }
 
@@ -75,12 +75,12 @@
   padding: 13px 20px 13px 20px;
   gap: 10px;
   border-radius: 4px 0px 0px 0px;
-  opacity: 0px;
+  opacity: 0;
   background: linear-gradient(90deg, #0278fe 0%, #003a7b 99.98%);
   border: none;
   color: white;
   cursor: pointer;
-  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
 }
 
 .places__button:hover {

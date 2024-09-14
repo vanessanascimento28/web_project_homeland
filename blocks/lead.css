@@ -25,7 +25,7 @@
   margin: 64px auto 0px;
   width: 100%;
   display: block;
-  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+  box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.5);
 }
 
 @media screen and (max-width: 844px) {
