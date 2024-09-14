@@ -1,5 +1,8 @@
+.content{
+  color: #ffffff;
+}
 
-.content {
+.content__text {
   max-width: 830px;
   margin: 0px 0px 0px 148px;
 }
@@ -42,6 +45,11 @@
     max-width: 720px;
   }
 
+  .content__text {
+    max-width: 800px;
+    margin: 0px 0px 0px 0px;
+  }
+
   .content__title {
     font-size: 2.81rem;
     line-height: 55px;
@@ -64,7 +72,11 @@
   .content {
     margin: 0 auto;
     max-width: 720px;
-    margin: 0px 10px 0px;
+  }
+
+  .content__text {
+    max-width: 720px;
+    margin: 90px 0px 0px;
   }
 
   .content__title {
@@ -88,7 +100,6 @@
 
 @media screen and (max-width: 584px) {
   .content {
-    margin: 0px 10px 0px 10px;
     max-width: 500px;
   }
 
