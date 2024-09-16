@@ -75,7 +75,6 @@
   padding: 13px 20px 13px 20px;
   gap: 10px;
   border-radius: 4px 0px 0px 0px;
-  opacity: 0;
   background: linear-gradient(90deg, #0278fe 0%, #003a7b 99.98%);
   border: none;
   color: white;
@@ -157,8 +156,8 @@
 
 @media screen and (max-width: 320px) {
   .places {
-    margin: 62px auto 0px;
-    max-width: 320px;
+    margin: 62px 16px 0px;
+    max-width: 310px;
     height: 1296px;
     row-gap: 30px;
     grid-template-columns: 1fr;
@@ -173,10 +172,11 @@
   .places__title {
     font-size: 32px;
     line-height: 35px;
+    max-width: 300px;
   }
 
   .places__image {
-    width: 320px;
+    width: 300px;
     height: 320px;
   }
 
